@@ -1,0 +1,14 @@
+{
+  "name": "GildedDepths.Net",
+  "rootNamespace": "GildedDepths.Net",
+  "references": [
+    "GildedDepths.Runtime",
+    "Fusion.Runtime",
+    "Fusion.Unity"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "_comment": "Networked behaviours. References Photon Fusion 2 (import via Asset Store / Photon site — see docs/04). Exact Fusion assembly names depend on the imported SDK version; adjust these references after import if needed."
+}

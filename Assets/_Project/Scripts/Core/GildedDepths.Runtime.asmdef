@@ -1,0 +1,10 @@
+{
+  "name": "GildedDepths.Runtime",
+  "rootNamespace": "GildedDepths.Core",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "_comment": "Pure gameplay logic. MUST NOT reference Photon Fusion or any transport (SOLID: depend inward)."
+}
