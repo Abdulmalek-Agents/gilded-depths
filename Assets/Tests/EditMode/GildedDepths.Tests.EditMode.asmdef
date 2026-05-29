@@ -1,0 +1,14 @@
+{
+  "name": "GildedDepths.Tests.EditMode",
+  "rootNamespace": "GildedDepths.Tests",
+  "references": [
+    "GildedDepths.Runtime",
+    "UnityEngine.TestRunner",
+    "UnityEditor.TestRunner"
+  ],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}
